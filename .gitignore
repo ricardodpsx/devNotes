@@ -1,5 +1,7 @@
 .gradle
 /build/
+.idea
+.DS_Store
 
 # Ignore Gradle GUI config
 gradle-app.setting
@@ -12,3 +14,9 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+/frontend/dist/
+/frontend/node_modules/
+/frontend/package-lock.json
+/_private/main.pem
+/backend/build/
+/_private/
